@@ -73,45 +73,45 @@
 - ConfigMap
 - Secrets
 - Probes
-# Day-9[14]
+# Day-9[14][09]
 - Manifest files creation for expense and instance[try yourself]
-# Day-10[15]
+# Day-10[15][10]
 - Helmify expense and instana[try yourself]
-# Day-11[16]
+# Day-11[16][11]
 - CRD's & Operators
 - Ingress
 - Annotations
 - HashiCorp Vault
 - ExternalSecretOperator
 - ExternalDNS
-# Day-12[17]
+# Day-12[17][Admin][12]
 - Serivce Account
 - RBAC
-# Day-13[18]
+# Day-13[18][Admin][13]
 - Network Policies
 - Resource Quotas
 - Limit Ranges
-# Day-14[19]
+# Day-14[19][Adv Scheduling][14]
 - NodeSelector
 - Affinity & Anti-Affinity
 - Pod Affinity & Anti-Affinity
-# Day-15[20]
+# Day-15[20][Adv Scheduling][15]
 - Taints & Tolerations
-# Day-16[21]
+# Day-16[21][16]
 - k8s errors simulation
-# Day-17[22]
+# Day-17[22][17]
 - EKS setup with Terraform
 
 ---
 Git&Github
 ---
-# Day-1[23]
+# Day-1[23][18]
 - What is Git,Github & Why
 - Git Basics
 - Branches creation
 - Merge,Rebase & Cherry-Pick
 - Git Stash
-# Day-2[24]
+# Day-2[24][19]
 - Reset & Revert
 - Brnaching Strategy
 - Git Tags
@@ -119,35 +119,35 @@ Git&Github
 ---
 # Jenkins
 ---
-# Day-1[25]
+# Day-1[25][20]
 - SDLC
   - waterfall
   - agile
   - DevOps[CI-CD]
   - DevSecOps[CI-CD]
 - Jenkins Introduction
-# Day-2[26]
+# Day-2[26][21]
 - Jenkins Distributed Architecture[Control-Plane+Build-Node]
 - FreeStyle Jobs
 - Pipelines Examples
   - Scripted
   - Declarative
 - Declarative Pipeline Syntax go through
-# Day-3[27]
+# Day-3[27][22]
 - Jenkins Shared Libs
 - Multi Branch pipelines
-# Day-4[28]
+# Day-4[28][23]
 - Prometheus Grafana[Metrics]
-# Day-5[29]
+# Day-5[29][24]
 - ELK[Logs]
-# Day-6[30]
+# Day-6[30][25]
 - CI pipeline
-# Day-7[31]
+# Day-7[31][26]
 - CD Pipeline
-# Day-8[32]
+# Day-8[32][Adminstrator]
 - RBAC
 - Backup & Restore and Version Upgrade
-# Day-9[33]
+# Day-9[33][27]
 - GitOps
 - ArgoCD
 ---
@@ -169,6 +169,12 @@ Git&Github
 - Velero
 # Day-7[40]
 - Cluster Upgradation
+# Day-8
+- AWS CLI[Application Modernization]
+# Day-9
+- Terraform[Application Modernization]
+
+
 
 
 
